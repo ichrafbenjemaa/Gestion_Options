@@ -1,8 +1,0 @@
-resourcesrest\restOption.class
-entities\Option.class
-entities\EtudiantList.class
-utilities\restActivator.class
-resourcesrest\restEtudiant.class
-entities\Etudiant.class
-metiers\EtudiantBusiness.class
-metiers\OptionBusiness.class
